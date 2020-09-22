@@ -2,7 +2,7 @@ import React from 'react';
 
 function Dinner(props){
     return(
-    <h1>Today we have chicken karahi</h1>
+    <h1>Today we have {props.dishName} in dinner</h1>
     );
 }
 
