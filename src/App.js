@@ -1,4 +1,5 @@
 import React from 'react';
+import "./dinner";
 import './App.css';
 
 function App() {
